@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[8281],{1730:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/lilidocs/blog/tags/hello","allTagsPath":"/lilidocs/blog/tags","count":2}')}}]);
